@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wsd</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">wsd!</string>
+    <string name="textState">state</string>
+
+    <string name="textR1">fx1</string>
+    <string name="textR2">fx2</string>
+    <string name="textR3">fx3</string>
+
+</resources>
