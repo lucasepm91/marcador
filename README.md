@@ -1,8 +1,7 @@
 marcador 4*10x7 wsd 
 ===================
 
-arduino-bluetooth version of the wsd (modular urban rgb hyperawesome) display [https://github.com/pratipo/wsd]
-===
+__arduino-bluetooth version of the wsd (modular urban rgb hyperawesome) display [https://github.com/pratipo/wsd]__
 
 sources: 
   - /marcador : firmware (arduino project)
