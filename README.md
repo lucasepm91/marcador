@@ -5,7 +5,7 @@ arduino-bluetooth version of the wsd (modular urban rgb hyperawesome) display [h
 ===
 
 sources: 
-  -/marcador : firmware (arduino project)
+  - /marcador : firmware (arduino project)
 
   - /wsd : android app (android studio project)
 
